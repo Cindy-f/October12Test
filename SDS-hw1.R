@@ -1,5 +1,6 @@
 # Author: Zhou Fan
 # Date: 08/31/2023
+# This is the test for editing r file on Github. 
 
 dataVote <- read.csv("/Users/cindyfan/Desktop/SDS 313/Homework1_Bonds.csv")
 
